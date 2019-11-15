@@ -15,13 +15,15 @@ body{
     display: flex;
     flex-direction: column;
     margin: auto;
+    width: 100px;
     padding: 20px;
+    text-align: center;
     transition :all 0.07s;
     border: 3px solid black;
     background:radial-gradient(circle, yellow,green,red,purple) ;
 }
 .sound{
-    color: blue;
+    color: white;
     font-size: 20px;
 }
 kbd{
